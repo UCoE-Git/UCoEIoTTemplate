@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ majorVersion="9"
+ minorVersion="2"
+ universal="">
+    <ThingGroups>
+        <ThingGroup
+         description=""
+         documentationContent=""
+         homeMashup=""
+         name="HelloWorld.TG"
+         projectName="HelloWorld"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <Members></Members>
+        </ThingGroup>
+    </ThingGroups>
+</Entities>

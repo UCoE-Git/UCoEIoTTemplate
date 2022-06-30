@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ majorVersion="9"
+ minorVersion="2"
+ universal="">
+    <NotificationDefinitions>
+        <NotificationDefinition
+         description=""
+         documentationContent=""
+         homeMashup=""
+         name="HelloWord.Notification"
+         projectName="HelloWorld"
+         tags="">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <Contents></Contents>
+            <Recipients></Recipients>
+            <Events></Events>
+        </NotificationDefinition>
+    </NotificationDefinitions>
+</Entities>
